@@ -1,0 +1,2 @@
+# Repository Contents
+This is the automapped OpenAPI Generator for the EVE Online ESI Interface. By using the openapi-generator-cli tool for the OpenAPI Specification v3.1 located at https://esi.evetech.net/meta/openapi.json?compatibility_date=2025-08-26, we have an output of the contents of this repository.
