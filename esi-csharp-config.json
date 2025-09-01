@@ -1,0 +1,18 @@
+{
+    "generatorName": "csharp",
+    "inputSpec": "https://esi.evetech.net/meta/openapi.json?compatibility_date=2025-08-26",
+    "outputDir": "Generated/EsiModels",
+    "additionalProperties": {
+      "packageName": "EveESI.Models",
+      "targetFramework": "net8.0",
+      "optionalEmitDefaultValues": false,
+      "nullableReferenceTypes": true,
+      "validatable": false,
+      "generatePropertyChanged": false,
+      "generateDefaultValues": true,
+      "supportsES6": false,
+      "useSystemTextJson": true,
+      "generatePartialClasses": true
+    }
+  }
+  
